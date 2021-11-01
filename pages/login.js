@@ -34,7 +34,7 @@ export default Login;
 const Container = styled.div`
   display: grid;
   width: 100vw;
-  height: 100vw;
+  height: 100vh;
   place-items: center ;
 `;
 
